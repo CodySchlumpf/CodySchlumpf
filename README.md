@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CodySchlumpf
+- 👀 I’m interested in Computational and Systems Biology.
+- 🌱 I’m currently learning more advanced concepts in Bioinformatics.
